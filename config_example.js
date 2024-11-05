@@ -2,7 +2,7 @@ module.exports = {
     app: {
         token: 'Put Token Here',
         access_token: 'Get token from youtubei extractor',
-        hypixel_api_token: '367cef45-514b-4bf5-a743-e40e03413fbb',
+        hypixel_api_token: 'Hypixel token',
         playing: 'start the musicbox - steyn',
         global: true,
         guild: '835207139357360129',
