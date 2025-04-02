@@ -71,3 +71,6 @@ Advanced configuration
 [visual studio code](https://code.visualstudio.com/) 
 
 To run type: npm start
+
+### Thanks
+Zeriodev - https://github.com/ZerioDev (Initial code that I expanded off from)
