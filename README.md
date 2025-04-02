@@ -73,4 +73,4 @@ Advanced configuration
 To run type: npm start
 
 ### Thanks
-Zeriodev - https://github.com/ZerioDev (Initial code that I expanded off from)
+ZerioDev - https://github.com/ZerioDev (Initial code that I expanded off from)
